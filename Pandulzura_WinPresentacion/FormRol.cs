@@ -47,6 +47,13 @@ namespace Pandulzura_WinPresentacion
 
             }
         }
+        private void LimpiarCampos()
+        {
+            // Limpiar el contenido de los TextBox u otros controles que desees limpiar
+            txtRol.Clear();
+            txtNombre.Clear();
+            // Agrega más líneas para limpiar otros campos si es necesario
+        }
         private void FormRol_Load(object sender, EventArgs e)
         {
             listarRol();
@@ -84,6 +91,7 @@ namespace Pandulzura_WinPresentacion
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
+            LimpiarCampos();
 
         }
 
