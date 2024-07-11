@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_AccesoDatos\bin\Debug\Pandulzura_AccesoDatos.dll
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_AccesoDatos\bin\Debug\Pandulzura_AccesoDatos.pdb
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_AccesoDatos\obj\Debug\Pandulzura_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_AccesoDatos\obj\Debug\Pandulzura_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_AccesoDatos\obj\Debug\Pandulzura_AccesoDatos.dll
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_AccesoDatos\obj\Debug\Pandulzura_AccesoDatos.pdb
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\Proyecto_PanDulzura\Pandulzura_AccesoDatos\bin\Debug\Pandulzura_AccesoDatos.dll.config
