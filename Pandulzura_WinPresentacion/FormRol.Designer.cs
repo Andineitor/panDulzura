@@ -77,6 +77,7 @@
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(216, 26);
             this.txtNombre.TabIndex = 3;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // btnAgregar
             // 
@@ -109,6 +110,7 @@
             this.dgvRol.RowTemplate.Height = 28;
             this.dgvRol.Size = new System.Drawing.Size(628, 155);
             this.dgvRol.TabIndex = 6;
+            this.dgvRol.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRol_CellContentClick);
             // 
             // btnLimpiar
             // 

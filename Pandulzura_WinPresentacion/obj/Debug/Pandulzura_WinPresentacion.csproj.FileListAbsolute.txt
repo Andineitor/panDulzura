@@ -15,3 +15,4 @@ C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\
 C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\Proyecto_PanDulzura\Pandulzura_WinPresentacion\obj\Debug\Pandulzu.1AAFF9AB.Up2Date
 C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\Proyecto_PanDulzura\Pandulzura_WinPresentacion\obj\Debug\Pandulzura_WinPresentacion.exe
 C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\Proyecto_PanDulzura\Pandulzura_WinPresentacion\obj\Debug\Pandulzura_WinPresentacion.pdb
+C:\Users\Usuario\OneDrive - Escuela Politécnica Nacional\Documentos\San Israel\ProgramacionII\proyectos\proyecto_pandulzura\Pandulzura_WinPresentacion\obj\Debug\Pandulzura_WinPresentacion.FormUser.resources

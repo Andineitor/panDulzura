@@ -95,6 +95,14 @@ namespace Pandulzura_WinPresentacion
 
         }
 
-      
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dgvRol_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

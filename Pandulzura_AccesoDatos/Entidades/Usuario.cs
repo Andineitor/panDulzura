@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Pandulzura_AccesoDatos.Entidades
 {
-    internal class Usuario
+    public class Usuario
     {
-        public string IdUser {  get; set; }
+        public int IdUser {  get; set; }
         public int? RolesId { get; set; }
         public string NombreUser { get; set; }
-        public long? CedulaUser { get; set; }
+        public int CedulaUser { get; set; }
         public string MailUser { get; set; }
-        public long? TelefonoUser { get; set; }
+        public int TelefonoUser { get; set; }
         public string DireccionUser { get; set; }
         public string ContrasenaUser { get; set; }
 
