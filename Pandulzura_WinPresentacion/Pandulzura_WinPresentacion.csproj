@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormFact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFact.Designer.cs">
+      <DependentUpon>FormFact.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormRol.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormFact.resx">
+      <DependentUpon>FormFact.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormRol.resx">
       <DependentUpon>FormRol.cs</DependentUpon>
     </EmbeddedResource>

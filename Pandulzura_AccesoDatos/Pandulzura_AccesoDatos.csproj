@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConexionBD.cs" />
+    <Compile Include="Entidades\Factura.cs" />
+    <Compile Include="DAO\FacturaDao.cs" />
     <Compile Include="DAO\RolDAO.cs" />
     <Compile Include="DAO\UsuarioDAO.cs" />
     <Compile Include="Entidades\Rol.cs" />
